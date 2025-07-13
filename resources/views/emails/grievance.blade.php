@@ -5,7 +5,7 @@
     <title>Mensaje Amoroso</title>
 </head>
 <body style="font-family: Arial, sans-serif; background-color: #fff0f5; color: #333; padding: 20px;">
-    <h2 style="color: #d6336c;">💖 Nuevo mensaje del Alex del Portal de Quejas 💖</h2>
+    <h2 style="color: #d6336c;">💖 Nuevo mensaje de [Pon nombre aqui] del Portal de Quejas 💖</h2>
 
     <p><strong>📌 Título:</strong> {{ $data['titulo'] }}</p>
 
